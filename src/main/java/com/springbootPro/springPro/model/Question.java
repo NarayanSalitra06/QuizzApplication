@@ -22,6 +22,7 @@ public class Question {
     private String questionTitle;
     private String rightAnswer;
 //
+    // while using a lombok  @Data we doesnot requare the getter and setter
 //    public Question() {
 //    }
 //
